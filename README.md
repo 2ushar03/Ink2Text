@@ -1,8 +1,12 @@
-# React + Vite
+# Ink2Text
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a handwriting recognition application using various technologies such as Flask, OCR, and machine learning.
 
-Currently, two official plugins are available:
+## **<h2>Installation</h2>**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### **<h3>1. Install Node modules</h3>**
+
+First, install the necessary Node.js modules by running the following command in your project directory:
+
+```bash
+npm install
